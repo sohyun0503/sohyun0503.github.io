@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Anlayst in IT Game "
+title                    : "Data Anlayst"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "SoHyun"
+name                     : "YiSoHyun"
 description              : "An amazing website."
 url                      : "https://zzzthgus.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi SoHyun"
+  name             : "SoHyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "데이터 분석하는 게임회사 직원입니다."
   location         : "Sourth Korea"
-  email            :
+  email            : "zzzthgus@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
