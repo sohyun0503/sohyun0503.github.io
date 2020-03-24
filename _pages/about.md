@@ -10,9 +10,9 @@ author_profile: true
 그 밖에도 다양한 분야에서 Insight를 발굴해 빠르게 실행하는 Analyst로 발전하고자 합니다.
 
 ---
-## Department of Statistics
+### Department of Statistics
 > 성신 여자대학교에서 통계학과를 전공하였습니다.  
 > 코딩과 알고리즘에도 관심이 많았습니다.  
 
-## AD Network (AD Platform)
+### AD Network (AD Platform)
  
